@@ -1,0 +1,1 @@
+Plate files for a split spacebar on the Epomaker Tide65.  V1 has been cut in 1.5mm plywood and once I trimmed here and there and added adhesive foam to serve as gaskets, it has woprked well.  V2 has NTO been cut yet, but should be a little bit better.  I converted to a VIAL firmware and gave up wireless functionality, but I threw my layout up here just for giggles. 
